@@ -6,7 +6,7 @@ This program is a binary search algorithm
 
 from typing import Iterable
     
-def binary_search(array_search: Iterable, value_search: str | int, print_process: bool) -> int:
+def binary_search(array_search: Iterable, value_search: str | int | float, print_process: bool) -> int:
     # Sorting the iterable and getting length values 
     array_search.sort()
     result = None
