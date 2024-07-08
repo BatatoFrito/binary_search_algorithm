@@ -1,2 +1,2 @@
-<h1>Binary Research Algorithm</h1>
+<h1>Binary Search Algorithm</h1>
 A binary search algorithm made with Python
